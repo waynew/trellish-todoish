@@ -56,3 +56,6 @@ docs/_build/
 # PyBuilder
 target/
 *.sw[a-p]
+
+.trello_api_key
+.trello_token
